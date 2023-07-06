@@ -1,0 +1,19 @@
+.movie{
+font-size:small;
+background-color: rgb(206, 187, 187);
+border: 1px solid black;
+padding: 10px;
+font-weight: bold;
+
+margin: 10px;
+width: 17vh;
+}
+.movie img{
+width: 15vh;
+}
+.movie p{
+    text-align: left;
+    width: auto;
+   
+}
+
